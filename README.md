@@ -1,2 +1,2 @@
 # SportLiga
-![main menu](https://i.imgur.com/hZsLnE3.png)
+![main menu](https://i.imgur.com/zSLlclA.png)
